@@ -8,11 +8,9 @@ const AboutScreen = () => {
       <Text style={styles.info}>Criadores:</Text>
       <Text style={styles.info}>Samuel Ferreira (1134647)</Text>
       <Text style={styles.info}>Lucas Felipe Ferrari (1134435)</Text>
-      <Text style={styles.info}>Carolline Piccoli (1134721)</Text>
       <Text style={styles.info}>Emails:</Text>
       <Text style={styles.info}>1134647@atitus.edu.br (Samuel)</Text>
       <Text style={styles.info}>1134435@atitus.edu.br (Lucas)</Text>
-      <Text style={styles.info}>1134721@atitus.edu.br (Carolline)</Text>
       <Text style={styles.footer}>atitus-123</Text>
     </View>
   );
